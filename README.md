@@ -212,4 +212,4 @@ EniG. Periodic Table of the Elements is the full free version with all features 
 Take your chemistry knowledge to the next level with EniG. Periodic Table of the Elements. Download now and start exploring!
 
 ---
-**Last updated:** 2026-10-18 23:49:15 UTC
+**Last updated:** 2026-10-19 01:56:00 UTC
